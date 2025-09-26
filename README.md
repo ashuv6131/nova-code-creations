@@ -391,7 +391,7 @@
                     <div class="space-y-2 text-gray-300">
                         <p><i class="fas fa-phone mr-2"></i> +91 6260943446</p>
                         <p><i class="fas fa-envelope mr-2"></i> ashuv6131@gmail.com</p>
-                        <p><i class="fab fa-instagram mr-2"></i> @astik_sharma</p>
+                        <p><i class="fab fa-instagram mr-2"></i> @_astik_sharma_</p>
                     </div>
                 </div>
             </div>
@@ -439,19 +439,19 @@
         // Reviews system
         let reviews = [
             {
-                name: "Priya Patel",
+                name: "Ankit Tiwari",
                 rating: 5,
                 text: "Excellent service! Nova Creations Codes delivered exactly what I needed for my business website. Professional, fast, and affordable.",
                 id: 1
             },
             {
-                name: "Rahul Kumar",
+                name: "Harshit Chaursia",
                 rating: 5,
                 text: "Amazing work on my e-commerce site. The design is beautiful and the functionality is perfect. Highly recommend!",
                 id: 2
             },
             {
-                name: "Sneha Gupta",
+                name: "Ankit Sahu",
                 rating: 4,
                 text: "Great experience working with Astik. The website looks professional and loads quickly. Very satisfied with the results.",
                 id: 3
@@ -834,7 +834,7 @@
                             </div>
                             <div>
                                 <p class="font-medium text-gray-800">Instagram</p>
-                                <a href="https://instagram.com/astik_sharma" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800">@astik_sharma</a>
+                                <a href="https://instagram.com/_astik_sharma_" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800">@_astik_sharma_</a>
                             </div>
                         </div>
                     </div>
@@ -992,19 +992,19 @@
         // Reviews system
         let reviews = [
             {
-                name: "Priya Patel",
+                name: "Ankit Sahu",
                 rating: 5,
                 text: "Excellent service! Nova Creations Codes delivered exactly what I needed for my business website. Professional, fast, and affordable.",
                 id: 1
             },
             {
-                name: "Rahul Kumar",
+                name: "Harshit Chaurasia",
                 rating: 5,
                 text: "Amazing work on my e-commerce site. The design is beautiful and the functionality is perfect. Highly recommend!",
                 id: 2
             },
             {
-                name: "Sneha Gupta",
+                name: "Ankit Tiwari",
                 rating: 4,
                 text: "Great experience working with Astik. The website looks professional and loads quickly. Very satisfied with the results.",
                 id: 3
